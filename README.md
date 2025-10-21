@@ -1,4 +1,4 @@
-# 🌌 Multilingual AI Zodiac – Customized Horoscopes for All Signs
+# 🌌 Multilingual AI Zodiac – Customized Horoscopes for All Signs FREE API
 
 Unlock the stars with **Multilingual AI Zodiac**, the most flexible and intelligent horoscope API ever created.  
 Powered by a **uniquely trained AI model**, this API generates **personalized, multilingual horoscopes** for all zodiac signs — instantly and with extraordinary accuracy.
